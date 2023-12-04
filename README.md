@@ -11,7 +11,7 @@ I've never done it before. I'm excited to try it this year, let's see how far I'
 To execute the code for a specific challenge, navigate to the root directory and run the following command. Replace `xx` with respective `.py` script. Ensure your Python version is 3.10 or higher.
 
 ```sh
-python3 xx.py
+python3 xx.py < input.txt
 ```
 
 If necessary, substitute `python3` with your specific Python version *(e.g., `python3.13`)*
